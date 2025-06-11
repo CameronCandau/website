@@ -14,7 +14,7 @@ theme:
     #- search.suggest
     #- search.highlight
     #- content.tabs.link
-    - navigation.instant
+    #- navigation.instant
     #- content.code.annotation
     #- content.code.copy
   language: en
