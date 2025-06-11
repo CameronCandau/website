@@ -2,13 +2,13 @@
 
 ## Graduated UCSC December 2024 with B.A. in Computer Science
 
-## [Blog/Digital Garden](https://veilcat.dev)
+## [Blog/Digital Garden: veilcat.dev](https://veilcat.dev)
 My site for side projects, writeups, and public notes.
 
 ## Software Engineering
 Proficient in:
 
-- [Python](https://github.com/veilcat?tab=repositories&q=&type=&language=python&sort=)
+- [Python](https://github.com/Cam-Can-Do?tab=repositories&q=&type=&language=python&sort=)
 - C/C++
     - 2 courses in C, 4 courses in C++
     - Wide range of projects including implementing hash tables, quicksort, mapreduce implementation, maze solver using Depth First Search, and a web crawler.
@@ -20,13 +20,13 @@ Proficient in:
 - Full Stack Web
     - Projects:
         - [WebWatch](https://github.com/Fa24-CSE115A-CaaS/WebWatch)
-        - [REST API Backend with Authentication and Authorization Sample Project](https://github.com/veilcat/REST-API-with-session-authorization)
+        - [REST API Backend with Authentication and Authorization Sample Project](https://github.com/Cam-Can-Do/REST-API-with-session-authorization)
 
     - Technologies:
         - Frontend: HTML, Vue, React
         - Backend: Flask, FastAPI, Node/ExpressJS
 
-- CI/CD (Github Actions) ([Basic sample project, used within a larger group project](https://github.com/veilcat/auto-release-workflow))
+- CI/CD (Github Actions) ([Basic sample project, used within a larger group project](https://github.com/Cam-Can-Do/auto-release-workflow))
 - Docker
 
 - Git
