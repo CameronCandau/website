@@ -1,6 +1,7 @@
 # About Me
-Hi, I'm Cameron.
-I'm an aspiring security engineer from Santa Cruz, California. I graduated with a B.A. in Computer Science from UC Santa Cruz in December 2024, have earned [multiple cybersecurity certifications](https://www.credly.com/users/cameron-candau), and have professional experience in systems administration. I'm currently preparing to take Offsec's OSCP certification in November!
+Hi, I'm Cameron, an aspiring security engineer from Santa Cruz, California. 
+
+I graduated with a B.A. in Computer Science from UC Santa Cruz in December 2024, have earned [multiple cybersecurity certifications](https://www.credly.com/users/cameron-candau), and have professional experience in systems administration. I'm currently preparing to take Offsec's OSCP certification in November!
 
 For more details, please visit my [GitHub](https://github.com/CameronCandau), [LinkedIn](https://www.linkedin.com/in/cameron-candau/) or contact me at `hello[at]cameroncandau[dot]com`.
 
